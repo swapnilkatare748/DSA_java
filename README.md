@@ -5,14 +5,23 @@ This repo is my personal space where I practice, learn, and implement DSA concep
  What's Inside?
 
 🔹 Basic of Java - program 
+
 🔹 Arrays – Searching, Sorting, and more
+
 🔹 Strings – Palindrome, Anagrams, Substrings
+
 🔹 Linked List – Singly, Doubly, and Circular
+
 🔹 Stack & Queue – Implementations + Problems
+
 🔹 Recursion & Backtracking – Classic challenges
+
 🔹 Trees & Graphs – Traversals, BFS, DFS, MST, etc.
+
 🔹 Dynamic Programming – Knapsack, LIS, Matrix Chain, etc.
+
 🔹 Greedy Algorithms – Huffman Coding, Interval Scheduling
+
 🔹 Advanced Topics – Tries, Heaps, Disjoint Set Union
 
 🎯 Purpose
