@@ -1,7 +1,9 @@
 Data Structures & Algorithms Repository
 
 Welcome to my DSA (Data Structures & Algorithms) repository! 
+
 This repo is my personal space where I practice, learn, and implement DSA concepts in Java 🖥️ (and sometimes other languages).
+
  What's Inside?
 
 🔹 Basic of Java - program 
@@ -31,7 +33,9 @@ This repo is my personal space where I practice, learn, and implement DSA concep
 ✔ Build a strong foundation in DSA concepts 💡
 
 📂 Repository Structure
+
 📦 DSA-Repository
+
  ┣ 📁 Basic_java
  
  ┣ 📁 Arrays
@@ -53,16 +57,18 @@ This repo is my personal space where I practice, learn, and implement DSA concep
  ┗ 📄 README.md
 
 🛠️ Tech Stack
+
 Language: Java ☕
+
 IDE: VS Code 
 
 Other Tools: Git & GitHub
 
 🤝 Contribution
+
 Want to add a new solution or improve existing code?
 Feel free to fork this repo, create a branch, and submit a pull request 💌
 
 🌟 Support
-If you find this repo helpful, don’t forget to ⭐ star it and share with friends preparing for DSA 🚀
 
-🔥 "The more you practice DSA, the better problem-solver you become."
+If you find this repo helpful, don’t forget to ⭐ star it and share with friends preparing for DSA 🚀
