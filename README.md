@@ -33,14 +33,23 @@ This repo is my personal space where I practice, learn, and implement DSA concep
 📂 Repository Structure
 📦 DSA-Repository
  ┣ 📁 Basic_java
+ 
  ┣ 📁 Arrays
+ 
  ┣ 📁 Strings
+ 
  ┣ 📁 LinkedList
+ 
  ┣ 📁 StackQueue
+
  ┣ 📁 Trees
+ 
  ┣ 📁 Graphs
+ 
  ┣ 📁 DynamicProgramming
+ 
  ┣ 📁 Greedy
+ 
  ┗ 📄 README.md
 
 🛠️ Tech Stack
